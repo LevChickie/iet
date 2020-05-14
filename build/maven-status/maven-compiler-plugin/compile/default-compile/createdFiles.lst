@@ -1,0 +1,14 @@
+com\complexible\common\csv\CSV2RDF$Template.class
+com\complexible\common\csv\CSV2RDF$TemplateLiteralGenerator.class
+com\complexible\common\csv\CSV2RDF$ValueProvider.class
+com\complexible\common\csv\CSV2RDF$StatementGenerator.class
+com\complexible\common\csv\CSV2RDF$BNodeGenerator.class
+com\complexible\common\csv\CSV2RDF$Template$1.class
+com\complexible\common\csv\CSV2RDF$ConstantValueGenerator.class
+com\complexible\common\csv\CSV2RDF$TemplateURIGenerator.class
+com\complexible\common\csv\CSV2RDF$UUIDProvider.class
+com\complexible\common\csv\CSV2RDF$RowNumberProvider.class
+com\complexible\common\csv\CSV2RDF$RowValueProvider.class
+com\complexible\common\csv\CSV2RDF$TemplateValueGenerator.class
+com\complexible\common\csv\CSV2RDF.class
+com\complexible\common\csv\CSV2RDF$ValueGenerator.class
